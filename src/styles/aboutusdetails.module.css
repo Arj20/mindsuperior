@@ -1,0 +1,13 @@
+.aboutusdetails {
+    margin: 4rem 0rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 90%;
+    margin: 1rem auto;
+    position: relative;
+}
+
+.aboutusdetails_font {
+    font-family: 'Titan One', cursive !important;
+}

@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: 'Quicksand', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: rgb(244, 244, 244);
+  background: linear-gradient(180deg, rgba(244, 244, 244, 1) 14%, rgba(242, 242, 242, 1) 51%);
+}
+
+code {
+  font-family: 'Quicksand', sans-serif;
+}
